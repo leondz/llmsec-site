@@ -18,7 +18,7 @@ marketing:
     site_type: Project
     local_business_type: ''
     org_name: ''
-    description: 'LLM security is the investigation of the failure modes of LLMs in use, the conditions that lead to them, and their mitigations.'
+    description: 'Research, news, and papers on large language model security.'
     twitter: 'llm_sec'
   analytics:
     google_analytics: ''

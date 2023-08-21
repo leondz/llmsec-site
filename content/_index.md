@@ -8,10 +8,11 @@ image:
   caption: Picturing Silicon - Catherine Breslin
 ---
 
+LLM security is the investigation of the failure modes of LLMs in use, the conditions that lead to them, and their mitigations.
 
-Research on large language model security posted by [@llm_sec](https://twitter.com/llm_sec)
+Here are links to large language model security content - research, papers, and news - posted by [@llm_sec](https://twitter.com/llm_sec)
 
-Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or send a DM.
+Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or send a [DM](https://twitter.com/llm_sec).
 
 ## Adversarial
 
