@@ -18,8 +18,8 @@ marketing:
     site_type: Project
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo notes theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'LLM security is the investigation of the failure modes of LLMs in use, the conditions that lead to them, and their mitigations.'
+    twitter: 'llm_sec'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Leon Derczynski. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

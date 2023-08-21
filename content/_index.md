@@ -1,41 +1,52 @@
 ---
-title: ✍️ Second Brain
+title: LLM Security
 date: 2022-09-24
 toc: false
 
 image:
-  filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
+  filename: covers/breslin-silicon.webp
   caption: NASA
 ---
 
-Welcome to the _Second Brain_ template!
+# LLM Security
 
-The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
+Research, papers, jobs, and news on large language model security. 
 
-- It is your second brain 🧠, stored in future-proof Markdown files 
-- Supports audio, video, images, math, code, [Mermaid](https://mermaid.live/) diagrams, and [much more](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- Edit your notes online in GitHub, or any Git-connected Markdown app such as [Obsidian](https://obsidian.md/) or [Visual Studio Code](https://vscode.dev/)
+## Adversarial
 
-```markmap {height="200px"}
-- Second Brain
-  - **powerful** knowledge base
-  - **easy**: just plain text Markdown files
-  - all your thoughts are **connected**
-  - highly **extensible**
-  - **future-proof** & open source ❤️
-```
+* [A LLM Assisted Exploitation of AI-Guardian](https://arxiv.org/abs/2307.15008)
+* [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
+* [Gradient-Based Word Substitution for Obstinate Adversarial Examples Generation in Language Models](https://arxiv.org/abs/2307.12507)
 
-## Public vs Private Second Brain
+## Backdoors
 
-Choose between **publishing and sharing your knowledge online or creating a private second brain**.
+* [Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.14710)
 
-To create an **open second brain**, share your knowledge with others [by deploying this template](https://wowchemy.com/hugo-themes/) as a public website.
+## Prompt injection
+* [Compromising LLMs: The Advent of AI Malware](https://www.blackhat.com/us-23/briefings/schedule/index.html#compromising-llms-the-advent-of-ai-malware-33075)
+* [Hackers Compromised ChatGPT Model with Indirect Prompt Injection](https://gbhackers.com/hackers-compromised-chatgpt-model/)
 
-To create a **private second brain** either:
+## Denial of service
 
-- After deploying your site above, [password protect your online second brain](https://docs.netlify.com/visitor-access/password-protection/) and configure your GitHub repo as **private**
-- [Download this template](https://github.com/wowchemy/hugo-second-brain-theme) and [run the tool locally](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
+## Cross-model
 
-## Example notebook
+* [Exploring the Vulnerability of Natural Language Processing Models via Universal Adversarial Texts](https://aclanthology.org/2021.alta-1.14/)
 
-{{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}}
+## Multimodal
+
+* [Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models](https://arxiv.org/abs/2307.14539)
+
+## Policy, legal, ethical, and social
+
+* [On the Trustworthiness Landscape of State-of-the-art Generative Models: A Comprehensive Survey](https://arxiv.org/abs/2307.16680)
+* [The last attempted AI revolution in security, and the next one](https://drive.google.com/file/d/1BbSIBayQ1RHVSnh-FnaeXr8xjw5SVJV8/view?pli=1)
+* [Unveiling Security, Privacy, and Ethical Concerns of ChatGPT](https://arxiv.org/abs/2307.14192)
+
+## Software
+
+* [garak](https://github.com/leondz/garak/) LLM vulnerability scanner
+
+## Mitigations
+
+* [Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias](https://arxiv.org/abs/2305.04547)
+* [ParaFuzz: An Interpretability-Driven Technique for Detecting Poisoned Samples in NLP](https://arxiv.org/abs/2308.02122)
