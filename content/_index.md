@@ -5,12 +5,13 @@ toc: false
 
 image:
   filename: covers/breslin-silicon.webp
-  caption: NASA
+  caption: Picturing Silicon - Catherine Breslin
 ---
 
-# LLM Security
 
-Research, papers, jobs, and news on large language model security. 
+Research on large language model security posted by [@llm_sec](https://twitter.com/llm_sec)
+
+Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or send a DM.
 
 ## Adversarial
 
