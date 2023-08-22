@@ -4,8 +4,8 @@ date: 2022-09-24
 toc: false
 
 image:
-  filename: covers/breslin-silicon.webp
-  caption: Picturing Silicon - Catherine Breslin
+  filename: covers/pexels-nuno-fangueiro-12125258.jpg
+  caption:  Monstera - Nuno Fangueiro
 ---
 
 LLM security is the investigation of the failure modes of LLMs in use, the conditions that lead to them, and their mitigations.
