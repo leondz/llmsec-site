@@ -1,6 +1,5 @@
 ---
 title: LLM Security
-date: 2022-09-24
 toc: false
 
 image:
@@ -165,12 +164,14 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 
 ## Software
 
+### LLM-specific
+
 * [BITE](https://github.com/INK-USC/BITE) Textual Backdoor Attacks with Iterative Trigger Injection
 * [garak](https://github.com/leondz/garak/) LLM vulnerability scanner 🌶️🌶️
 * [rebuff](https://github.com/protectai/rebuff) LLM Prompt Injection Detector
 
 
-### Generic MLsec
+### general MLsec
 
 * [Adversarial Robustness Toolkit](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 * [nvtrust](https://github.com/NVIDIA/nvtrust) Ancillary open source software to support confidential computing on NVIDIA GPUs
