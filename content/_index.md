@@ -68,7 +68,7 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 
 ### Denial of service
 
-* [Sponge Examples: Energy-Latency Attacks on Neural Networks](https://arxiv.org/abs/2006.03463)
+* [Sponge Examples: Energy-Latency Attacks on Neural Networks](https://arxiv.org/abs/2006.03463) 🌶️
 
 ### Escalation
 
@@ -94,7 +94,7 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 
 * [Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943)
 
-## Attack automation
+### Attack automation
 
 * [FakeToxicityPrompts: Automatic Red Teaming](https://interhumanagreement.substack.com/p/faketoxicityprompts-automatic-red)
 * [FLIRT: Feedback Loop In-context Red Teaming](https://huggingface.co/papers/2308.04265)
@@ -121,7 +121,7 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 
 * [Defending against Insertion-based Textual Backdoor Attacks via Attribution](https://aclanthology.org/2023.findings-acl.561/)
 * [GPTs Don’t Keep Secrets: Searching for Backdoor Watermark Triggers in Autoregressive Language Models](https://aclanthology.org/2023.trustnlp-1.21/) 🌶️
-* [IMBERT: Making BERT Immune to Insertion-based Backdoor Attacks](https://aclanthology.org/2023.trustnlp-1.25/)
+* [IMBERT: Making BERT Immune to Insertion-based Backdoor Attacks](https://aclanthology.org/2023.trustnlp-1.25/) 🌶️
 * [Maximum Entropy Loss, the Silver Bullet Targeting Backdoor Attacks in Pre-trained Language Models](https://aclanthology.org/2023.findings-acl.237/)
 * [ONION: A Simple and Effective Defense Against Textual Backdoor Attacks](https://arxiv.org/abs/2011.10369)
 * [ParaFuzz: An Interpretability-Driven Technique for Detecting Poisoned Samples in NLP](https://arxiv.org/abs/2308.02122)
