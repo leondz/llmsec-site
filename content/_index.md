@@ -38,7 +38,7 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 * [Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger](https://arxiv.org/abs/2105.12400) 🌶️
 * [Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.14710)
 * [On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)
-* [Poisoning Web-Scale Training Datasets is Practical](https://arxiv.org/abs/2302.10149)
+* [Poisoning Web-Scale Training Datasets is Practical](https://arxiv.org/abs/2302.10149) 🌶️
 
 ### Prompt injection
 
@@ -124,7 +124,7 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 * [IMBERT: Making BERT Immune to Insertion-based Backdoor Attacks](https://aclanthology.org/2023.trustnlp-1.25/) 🌶️
 * [Maximum Entropy Loss, the Silver Bullet Targeting Backdoor Attacks in Pre-trained Language Models](https://aclanthology.org/2023.findings-acl.237/)
 * [ONION: A Simple and Effective Defense Against Textual Backdoor Attacks](https://arxiv.org/abs/2011.10369)
-* [ParaFuzz: An Interpretability-Driven Technique for Detecting Poisoned Samples in NLP](https://arxiv.org/abs/2308.02122)
+* [ParaFuzz: An Interpretability-Driven Technique for Detecting Poisoned Samples in NLP](https://arxiv.org/abs/2308.02122) 🌶️
 
 
 ## Evaluation
@@ -138,7 +138,7 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 * [Artificial intelligence and machine learning security](https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning) (microsoft) 🌶️
 * [Assessing Language Model Deployment with Risk Cards](https://arxiv.org/abs/2303.18190)
 * [Protect Your Prompts: Protocols for IP Protection in LLM Applications](https://arxiv.org/abs/2306.06297)
-* ["Real Attackers Don't Compute Gradients": Bridging the Gap Between Adversarial ML Research and Practice](https://arxiv.org/abs/2212.14315)
+* ["Real Attackers Don't Compute Gradients": Bridging the Gap Between Adversarial ML Research and Practice](https://arxiv.org/abs/2212.14315) 🌶️
 * [Securing LLM Systems Against Prompt Injection](https://developer.nvidia.com/blog/securing-llm-systems-against-prompt-injection/)
 * [Threat Modeling LLM Applications](https://aivillage.org/large%20language%20models/threat-modeling-llm/)
 * [Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/trailofbits/publications/master/papers/toward_comprehensive_risk_assessments.pdf)
@@ -148,7 +148,7 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 
 * [Latent Jailbreak: A Test Suite for Evaluating Both Text Safety and Output Robustness of Large Language Models](https://arxiv.org/abs/2307.08487) 🌶️
 * [Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations](https://arxiv.org/abs/2306.09255)
-* [OWASP Top 10 for LLM vulnerabilities](https://llmtop10.com/)
+* [OWASP Top 10 for LLM vulnerabilities](https://llmtop10.com/) 🌶️
 * [Towards Security Threats of Deep Learning Systems: A Survey](https://arxiv.org/abs/1911.12562)
 
 ## Policy, legal, ethical, and social
