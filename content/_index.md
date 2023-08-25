@@ -25,19 +25,26 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 * [Expanding Scope: Adapting English Adversarial Attacks to Chinese](https://aclanthology.org/2023.trustnlp-1.24/)
 * [Gradient-based Adversarial Attacks against Text Transformers](https://arxiv.org/abs/2104.13733)
 * [Gradient-Based Word Substitution for Obstinate Adversarial Examples Generation in Language Models](https://arxiv.org/abs/2307.12507)
+* [Sample Attackability in Natural Language Adversarial Attacks](https://aclanthology.org/2023.trustnlp-1.9/)
 
 ### Backdoors & data poisoning
 
 * [A backdoor attack against LSTM-based text classification systems](https://arxiv.org/abs/1905.12457) "Submitted on 29 May 2019"!
 * [A Gradient Control Method for Backdoor Attacks on Parameter-Efficient Tuning](https://aclanthology.org/2023.acl-long.194/)
+* [Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark](https://arxiv.org/abs/2305.10036)
 * [Backdooring Neural Code Search](https://arxiv.org/abs/2305.17506) 🌶️
+* [BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models](https://arxiv.org/abs/2110.02467)
 * [Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models](https://arxiv.org/abs/2103.15543)
 * [BadNL: Backdoor Attacks against NLP Models with Semantic-preserving Improvements](https://arxiv.org/abs/2006.01043)
 * [BITE: Textual Backdoor Attacks with Iterative Trigger Injection](https://arxiv.org/abs/2205.12700) 🌶️
+* [Exploring the Universal Vulnerability of Prompt-based Learning Paradigm](https://aclanthology.org/2022.findings-naacl.137/)
 * [Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger](https://arxiv.org/abs/2105.12400) 🌶️
 * [Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.14710)
+* [Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer](https://aclanthology.org/2021.emnlp-main.374/)
 * [On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)
 * [Poisoning Web-Scale Training Datasets is Practical](https://arxiv.org/abs/2302.10149) 🌶️
+* [Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models](https://arxiv.org/abs/2305.01219)
+* [Two-in-One: A Model Hijacking Attack Against Text Generation Models](https://arxiv.org/abs/2305.07406)
 
 ### Prompt injection
 
@@ -99,6 +106,7 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 * [FLIRT: Feedback Loop In-context Red Teaming](https://huggingface.co/papers/2308.04265)
 * [Red Teaming Language Models with Language Models](https://arxiv.org/abs/2202.03286)
 * [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
+* [Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment](https://arxiv.org/abs/2308.09662)
 
 ## Defenses & Detections
 
@@ -119,6 +127,7 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 ### against backdoors / backdoor insertion
 
 * [Defending against Insertion-based Textual Backdoor Attacks via Attribution](https://aclanthology.org/2023.findings-acl.561/)
+* [Exploring the Universal Vulnerability of Prompt-based Learning Paradigm](https://aclanthology.org/2022.findings-naacl.137/)
 * [GPTs Don’t Keep Secrets: Searching for Backdoor Watermark Triggers in Autoregressive Language Models](https://aclanthology.org/2023.trustnlp-1.21/) 🌶️
 * [IMBERT: Making BERT Immune to Insertion-based Backdoor Attacks](https://aclanthology.org/2023.trustnlp-1.25/) 🌶️
 * [Maximum Entropy Loss, the Silver Bullet Targeting Backdoor Attacks in Pre-trained Language Models](https://aclanthology.org/2023.findings-acl.237/)
@@ -128,6 +137,7 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 
 ## Evaluation
 
+* [Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models](https://arxiv.org/abs/2308.10819)
 * [PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts](https://arxiv.org/abs/2306.04528)
 
 ## Practices
@@ -136,6 +146,7 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 * [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 * [Artificial intelligence and machine learning security](https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning) (microsoft) 🌶️
 * [Assessing Language Model Deployment with Risk Cards](https://arxiv.org/abs/2303.18190)
+* [Explore, Establish, Exploit: Red Teaming Language Models from Scratch](https://arxiv.org/abs/2306.09442)
 * [Protect Your Prompts: Protocols for IP Protection in LLM Applications](https://arxiv.org/abs/2306.06297)
 * ["Real Attackers Don't Compute Gradients": Bridging the Gap Between Adversarial ML Research and Practice](https://arxiv.org/abs/2212.14315) 🌶️
 * [Securing LLM Systems Against Prompt Injection](https://developer.nvidia.com/blog/securing-llm-systems-against-prompt-injection/)
@@ -148,6 +159,7 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 * [Latent Jailbreak: A Test Suite for Evaluating Both Text Safety and Output Robustness of Large Language Models](https://arxiv.org/abs/2307.08487) 🌶️
 * [Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations](https://arxiv.org/abs/2306.09255)
 * [OWASP Top 10 for LLM vulnerabilities](https://llmtop10.com/) 🌶️
+* [The AI Attack Surface Map v1.0](https://danielmiessler.com/p/the-ai-attack-surface-map-v1-0/)
 * [Towards Security Threats of Deep Learning Systems: A Survey](https://arxiv.org/abs/1911.12562)
 
 ## Policy, legal, ethical, and social
@@ -161,6 +173,7 @@ Got a tip/link? Open a [pull request](https://github.com/leondz/llmsec-site) or 
 * [Product Liability for Defective AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515202)
 * [The last attempted AI revolution in security, and the next one](https://drive.google.com/file/d/1BbSIBayQ1RHVSnh-FnaeXr8xjw5SVJV8/view?pli=1)
 * [Unveiling Security, Privacy, and Ethical Concerns of ChatGPT](https://arxiv.org/abs/2307.14192)
+* [Where's the Liability in Harmful AI Speech?](https://arxiv.org/abs/2308.04635)
 
 ## Software
 
